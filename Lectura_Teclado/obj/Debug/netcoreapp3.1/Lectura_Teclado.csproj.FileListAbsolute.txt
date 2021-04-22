@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/bin/Debug/netcoreapp3.1/Lectura_Teclado.deps.json
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/bin/Debug/netcoreapp3.1/Lectura_Teclado.runtimeconfig.json
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/bin/Debug/netcoreapp3.1/Lectura_Teclado.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/bin/Debug/netcoreapp3.1/Lectura_Teclado.dll
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/bin/Debug/netcoreapp3.1/Lectura_Teclado.pdb
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.dll
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.pdb
+/Users/tom/Desktop/C#/Lectura_Teclado/Lectura_Teclado/obj/Debug/netcoreapp3.1/Lectura_Teclado.genruntimeconfig.cache
